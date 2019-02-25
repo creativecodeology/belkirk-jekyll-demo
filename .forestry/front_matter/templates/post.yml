@@ -40,4 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/my-post.md
 - _posts/title.md
