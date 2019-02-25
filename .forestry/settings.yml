@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://discordapp.com/api/webhooks/549620552126562304/lZ0PWSJFiGeSDINyuANhGtDuzlsG1LU3QPXrSM5D4zOqRZbu1e5rrJA35QQrRluDbnLV
 sections:
 - type: heading
   label: Content
