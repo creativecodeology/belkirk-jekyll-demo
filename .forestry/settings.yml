@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: https://discordapp.com/api/webhooks/549620552126562304/lZ0PWSJFiGeSDINyuANhGtDuzlsG1LU3QPXrSM5D4zOqRZbu1e5rrJA35QQrRluDbnLV
+webhook_url: https://hook.integromat.com/df4hdx9gyutnsmgiv2ux3cedd5pksz56
 sections:
 - type: heading
   label: Content
